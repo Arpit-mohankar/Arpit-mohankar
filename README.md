@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/arpitmohankar24" target="blank"><img src="https://img.shields.io/twitter/follow/arpitmohankar24?logo=twitter&style=for-the-badge" alt="arpitmohankar24" /></a> </p>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m  *Full Stack developer**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Arpitm24](https://hashnode.com/@Arpitm24)
 
