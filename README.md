@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Mohankar</h1>
-<h3 align="center">I Make Contributions to Opensource👨‍💻</h3>
+<h3 align="center">I make things. Sometimes they even work. 🧑‍💻💥
+
+</h3>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/rvUj-4w4gORSmRBVP9aVxDsqz3dWyCtEoOS5KmitwfM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzE2MDAvMCpD/LWNQUDlEMk1JeWVl/eEFULmdpZg.gif">
 
 <p align="left"> <a href="https://twitter.com/arpitmohankar24" target="blank"><img src="https://img.shields.io/twitter/follow/arpitmohankar24?logo=twitter&style=for-the-badge" alt="arpitmohankar24" /></a> </p>
